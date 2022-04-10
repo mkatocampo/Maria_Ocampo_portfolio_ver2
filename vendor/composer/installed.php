@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '06091cb5fb89150cb9555959ff8a7be6480d1892',
+        'reference' => '492f93953ec75a82f7758fbb4ae94ebfb8d598d2',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '06091cb5fb89150cb9555959ff8a7be6480d1892',
+            'reference' => '492f93953ec75a82f7758fbb4ae94ebfb8d598d2',
             'dev_requirement' => false,
         ),
         'heroku/heroku-buildpack-php' => array(

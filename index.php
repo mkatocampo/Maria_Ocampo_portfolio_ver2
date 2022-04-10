@@ -5,7 +5,6 @@ include "includes/dbFunctions.php";
 include "includes/dbConnection.php";
 include "includes/header.php";
 ?>
-
 <main>
 
 
